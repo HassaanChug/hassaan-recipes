@@ -1,0 +1,12 @@
+/* Use rem for accessibility purposes and a bigger line height for readability */
+body {
+    font-size:1.050rem;
+    line-height: 1.5;
+	font-family: 'Lucida Console','Lucida Sans Typewriter','monaco','Bitstream Vera Sans Mono','monospace'; 
+    background-image: url('../img/dark-honeycomb.png');
+    color:rgb(216, 213, 213);
+}
+
+
+
+
