@@ -4,9 +4,27 @@ body {
     line-height: 1.5;
 	font-family: 'Lucida Console','Lucida Sans Typewriter','monaco','Bitstream Vera Sans Mono','monospace'; 
     background-image: url('../img/dark-honeycomb.png');
-    color:rgb(216, 213, 213);
+    color:#d8d5d5;
 }
 
+a {
+    color: #e7afaf;
+    font-weight: 800;
+    font-size:1.2rem;
+}
 
+a:hover{
+    color: white;
+}
+
+.nav-links {
+    list-style-type: lower-alpha;
+}
+
+.nav-links a{
+    text-decoration: underline;
+    color:#e7afaf;
+    font-weight:800;
+}
 
 
