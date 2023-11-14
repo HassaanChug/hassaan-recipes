@@ -33,6 +33,9 @@ a:hover{
 
 .home{
     background-color: purple;   
+    padding:64px;
+    margin:32px;
+    border:5px solid #d8d5d5;
 }
 
 
