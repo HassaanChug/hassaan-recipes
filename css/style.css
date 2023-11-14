@@ -5,6 +5,9 @@ body {
 	font-family: 'Lucida Console','Lucida Sans Typewriter','monaco','Bitstream Vera Sans Mono','monospace'; 
     background-image: url('../img/dark-honeycomb.png');
     color:#d8d5d5;
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 a {
