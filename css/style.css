@@ -46,4 +46,7 @@ a:hover{
     background-color: purple;
 }
 
-
+.recipe-description{
+    padding-bottom:24px;
+    border-bottom: 2px dotted #d8d5d5;
+}
